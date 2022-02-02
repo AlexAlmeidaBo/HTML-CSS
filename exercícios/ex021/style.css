@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+h1{ /*block level*/
+    background-color: lightseagreen;
+    border: 5px solid lightblue;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    color: #fff;
+
+    margin: 10px auto;
+}
+
+/* Inline level*/
+
+p{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(89, 155, 212);
+}
+
+a{
+    border: 5px solid lightgrey;
+    padding: 5px;
+    text-decoration: none;
+    
+}
